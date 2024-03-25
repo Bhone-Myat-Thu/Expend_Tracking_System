@@ -31,4 +31,4 @@ Johndoe:Password123
 
 ## Disclaimer
 
-This project is developed as part of a school assignment and may contain errors or inaccuracies. The authors of this project is not responsible for any damages or losses arising from its use.  this project mainly focuses on CRUD (Create, Read, Update, Delete) operations and utilizes a MySQL database. Feel free to reuse.
+This project is developed as part of a school assignment and may contain errors or inaccuracies. The authors of this project is not responsible for any damages or losses arising from its use. This project mainly focuses on CRUD (Create, Read, Update, Delete) operations and utilizes a MySQL database. Feel free to reuse.
