@@ -18,15 +18,15 @@ Johndoe:Password123
 
 # Screenshots
 
-![](Screenshots\login.png)
+![](Screenshots/login.png)
 
-![](Screenshots\register.png)
+![](Screenshots/register.png)
 
-![](Screenshots\welcome.png)
+![](Screenshots/welcome.png)
 
-![](Screenshots\dashboard.png)
+![](Screenshots/dashboard.png)
 
-![](Screenshots\barchart.png)
+![](Screenshots/barchart.png)
 
 
 ## Disclaimer
